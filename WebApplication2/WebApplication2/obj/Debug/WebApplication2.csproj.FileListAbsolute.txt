@@ -3,3 +3,7 @@ D:\Data\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
 D:\Data\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 D:\Data\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
 D:\Data\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+D:\Data\Projects\WebAPI\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\Data\Projects\WebAPI\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\Data\Projects\WebAPI\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\Data\Projects\WebAPI\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
