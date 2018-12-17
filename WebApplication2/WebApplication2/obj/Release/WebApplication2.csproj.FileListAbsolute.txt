@@ -1,0 +1,4 @@
+D:\Data\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\Data\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\Data\Projects\WebApplication2\WebApplication2\obj\Release\WebApplication2.dll
+D:\Data\Projects\WebApplication2\WebApplication2\obj\Release\WebApplication2.pdb
